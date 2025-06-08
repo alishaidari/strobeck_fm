@@ -1,0 +1,14 @@
+# Local config
+config.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VSCode / Visual Studio
+.vs/
+.vscode/
+
+# OS/system files
+.DS_Store
+Thumbs.db
